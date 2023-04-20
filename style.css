@@ -11,3 +11,8 @@ main, body {
 #map {
   height: 1000px;
 }
+
+#wide-map {
+  width: 7680px;
+  height: 4320px;
+}
